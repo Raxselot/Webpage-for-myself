@@ -24,17 +24,23 @@ Texte, Branding und Kontaktinfos sind zentral in einer Konfigurationsdatei gepfl
 - framer-motion für Animationen
 - lucide-react für Icons
 
+Screenshots: 
+<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/cf698126-6dec-43da-b52c-8dede00368f7" />
+
+<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/00c2e870-40b9-4048-9477-a8b02f2997ca" />
+
+<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/3b0964c9-baba-43d2-8f10-738e70ab01ac" />
+
+<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/7eef9705-7d88-42b3-8b78-2cb564e83bfc" />
+
+
+
 ## Installation und Start
 ```bash
 npm install
 npm run dev
 Danach läuft die Seite auf http://localhost:3000.
 
-Screenshots
-<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/8bf922ae-1329-40c0-991a-547a14fc5579" />
-<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/3f1ff2ad-4f2b-4318-8803-5726509aa1a5" />
-<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/e5b3511a-67a4-4ca5-93ae-47bbabd2abf4" />
-<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/bc3133b6-a712-4fe0-8c67-036ecbfbd98b" />
 
 Warum dieses Projekt?
 Ich habe die Seite als Bewerbungs- und Showcase-Projekt erstellt.
